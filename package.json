@@ -1,0 +1,14 @@
+{
+  "name": "basic-http-class-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix", 
+    "test": "echo \"Test Complete\""
+  },
+  "keywords": [],
+  "author": "Lucas Corey",
+  "license": "UNLICENSED"
+}
